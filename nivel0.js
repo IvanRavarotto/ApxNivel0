@@ -14,3 +14,10 @@ console.log(unDulce, ranking);
 ranking = 8;
 
 console.log(unDulce, ranking);
+
+
+//Ejemplo de un comentario de una unica línea
+/*
+Ejemplo de un comentario de varias líneas
+Ejemplo de un comentario de varias líneas
+*/
