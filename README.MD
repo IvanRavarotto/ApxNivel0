@@ -5,3 +5,4 @@ Contedido dado:
 
 1 - Tipos de datos
 2 - Typeoff
+3 - Objetos
