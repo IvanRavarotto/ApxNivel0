@@ -16,11 +16,11 @@ const carrito = [
   // suma un nuevo producto al carrito (recuerda utilizar length como vimos previamente)
   // [Tú codigo aqui]
 
-  carrito.push({
+  carrito[carrito.length] = {
     articulo: 'Regadera',
     price: 200,
     cantidad: 1
-  })
+  }
   
   // vuelve a imprimir el nuevo total de producto en el carrito
   // [Tú codigo aqui]
